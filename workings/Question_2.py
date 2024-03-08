@@ -1,5 +1,6 @@
 ###### Solutions for Question 2.
 
+###### By default the code will print solutions for Trapezium, Simpson's 1/3 Rule and Gauss_Legendre Quadrature for dt=1 (can be changed at line 22) 
 ###### User will be able to choose what variables/plots to display at the bottom of this script 
 
 import numpy as np
